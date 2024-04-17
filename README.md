@@ -45,5 +45,3 @@ The input CSV files should have the following structure:
 
 - Ensure that the CSV files are properly formatted and contain text data in the specified segments.
 - The script will create a SQLite database file (`word_frequency.db`) in the same directory as the Python script to store the word frequency data.
-
-```
